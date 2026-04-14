@@ -1,0 +1,21 @@
+[submodule "parkingmobileapp"]
+	path = parkingmobileapp
+	url = https://github.com/QuocThai1208/parkingmobileapp.git
+[submodule "parkingadminweb"]
+	path = parkingadminweb
+	url = https://github.com/QuocThai1208/parkingadminweb.git
+[submodule "smartparking_ai_v2"]
+	path = smartparking_ai_v2
+	url = https://github.com/QuocThai1208/smartparking_ai_v2.git
+[submodule "ai_engine"]
+	path = ai_engine
+	url = https://github.com/QuocThai1208/smartparking_ai_v2.git
+[submodule "web"]
+	path = web
+	url = https://github.com/QuocThai1208/parkingadminweb.git
+[submodule "app"]
+	path = app
+	url = https://github.com/QuocThai1208/parkingmobileapp.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/QuocThai1208/smartparking_v2.git
